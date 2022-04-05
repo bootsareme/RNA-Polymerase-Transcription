@@ -1,4 +1,4 @@
-// DNA to RNA Converter. Original Author: Vincent Zhang. Written in C++.
+// DNA to RNA Converter. Original Author: bootsareme. Written in C++.
 // Converts to the correponding strand. Example: DNA: ACTCGTATGAC --> RNA: UGAGCAUACAG.
 
 #include <iostream>
@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Welcome to the DNA to RNA Converter! Made by Vincent Zhang.\n";
+    cout << "Welcome to the DNA to RNA Converter! Made by bootsareme.\n";
     cout << "Please enter your DNA sequence below, it should only contain A,C,T,G with no spaces or indents.\n";
     cout << "\nDNA Sequence: ";
 
